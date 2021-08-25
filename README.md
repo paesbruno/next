@@ -5,4 +5,5 @@ Olá, eu sou o Bruno Paes, e estou fazendo o curso Next da Cesar School. Sou Ci�
 ## Curiosidades
 
 * Tenho um filho chamado Ian
-* Sou co-fundador da Ekäut Cervejaria
+* Sou BeerSommelier e co-fundador da Ekäut Cervejaria
+* Sou bodyboard e já fraturei 4 vertebras da coluna toráxica em Maracaípe
