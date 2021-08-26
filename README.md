@@ -10,3 +10,5 @@ Olá, eu sou o Bruno Paes, e estou fazendo o curso Next da Cesar School. Sou Ci�
 * Sou praticante de bodyboard e já fraturei 4 vertebras da coluna toráxica pegando onda em Maracaípe
 * Tenho uma tatuagem de caranguejo uçá nas costas em homenagem ao manguebeat
 * metade da featura de editar botão
+* outra metade do botão
+* nova alteração
